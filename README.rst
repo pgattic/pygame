@@ -15,6 +15,7 @@ these programs a more intuitive task.
 `We need your help`_ to make pygame the best it can be!
 New contributors are welcome.
 
+Hello this is free to use
 
 Installation
 ------------
